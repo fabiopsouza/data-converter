@@ -1,0 +1,24 @@
+{
+  "name": "data-converter",
+  "version": "1.0.0",
+  "description": "Data converter",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiopsouza/data-converter.git"
+  },
+  "keywords": [
+    "data",
+    "converter",
+    "regex"
+  ],
+  "author": "Fábio Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiopsouza/data-converter/issues"
+  },
+  "homepage": "https://github.com/fabiopsouza/data-converter#readme"
+}
