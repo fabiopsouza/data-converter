@@ -1,2 +1,2 @@
 # data-converter
-App to challenge me to practice regex initially
+App to challenge me practice regex
